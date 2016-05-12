@@ -12,6 +12,19 @@ h2 {
   z-index: 1100;
 }
 
+.gameLogoPlayerSelect {
+  max-width: 1000px;
+  margin-left: -80px;
+}
+
+.gameLogoBoard {
+  max-width: 1000px;
+  margin-top: 25px;
+  margin-left: -80px;
+  margin-bottom: 40px;
+  opacity: 0;
+}
+
 .playerScoreIcon {
   border: 2px solid white;
   border-radius: 6px;
@@ -53,10 +66,6 @@ button:hover {
   background-color: rgba(0,0,0,1)
 }
 
-#bowser: hover {
-  //play bowserAudio
-}
-
 #scoreCounter {
   position: fixed;
   width: 309px;
@@ -88,7 +97,8 @@ button:hover {
 }
 
 .gameBoard {
-  margin-top: 110px;
+  margin-top: -40px;
+  padding: 40px;
   font-size: 0;
   opacity: 0;
 }
@@ -135,7 +145,7 @@ button:hover {
   position: relative;
   display: inline-block;
   width:1000px;
-  top: -750px;
+  top: -980px;
   left: -2000px;
   margin: 0 auto;
   z-index: 1000;
