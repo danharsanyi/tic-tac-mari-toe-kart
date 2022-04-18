@@ -1,4 +1,4 @@
-Welcome to Tic Tac Toe Mari Kart style! (Or Tic Tac Mari-Toe Kart I guess?)
+Welcome to Tic Tac Toe Mario Kart style! (Or Tic Tac Mari-Toe Kart I guess?)
 
 Click here to play: https://htmlpreview.github.io/?https://github.com/danharsanyi/TicTacMariToeKart/blob/master/index.html
 
